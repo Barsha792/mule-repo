@@ -1,0 +1,13 @@
+{
+  "sampleData": {
+    "ef4bed60-db3c-489b-8965-f75e82d5c315": {
+      "payload": "sample_data/name.xml"
+    },
+    "79b9e6d9-ae21-4d6a-8dac-ac6ba344d782": {
+      "payload": "sample_data/list_account.dwl"
+    },
+    "d977ad5a-5588-4d0f-b7ba-6710585f8114": {
+      "payload": "sample_data/json.json"
+    }
+  }
+}
